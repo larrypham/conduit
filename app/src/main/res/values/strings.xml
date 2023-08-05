@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Conduit</string>
+    <string name="label_join_medium">Join Medium</string>
+    <string name="label_signup_with_google">Sign up With Google</string>
+    <string name="label_signup_with_facebook">Sign up With Facebook</string>
+    <string name="label_signup_with_email">Sign up With Email</string>
+    <string name="label_signup_with_apple">Sign up With Apple</string>
+    <string name="label_already_have_account">Already have an account?</string>
+    <string name="label_signin">sign in</string>
+    <string name="label_notice_agreement">By signing up, you agree to our Tems of Service and acknowledge that our Privacy Policy applies to you.</string>
+</resources>
